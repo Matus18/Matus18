@@ -1,8 +1,10 @@
 Benjamín Matus
 
-- Pyhton, Oracle, MySQL, JavaScript
-- Excel, Google Sheets
-- API, BackEnd Dev
+- Pyhton, HTML, Javascript, VBA. 
+- Oracle, Mysql, Microsoft SQL Server.
+- Wix, Wordpress.
+- Excel, Google Sheets.
+- BackEnd Developer
  
 
 -  benjamin.matus.s@gmail.com 
