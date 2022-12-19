@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Benjamín Matus
-- 👀 I’m interested in ... 
-- Coding Pyhton, Oracle, MySQL, JavaScrippt
-- 🌱 I’m currently learning ... 
-- Pyhton and Oracle
-- 💞️ I’m looking to collaborate on ... 
-- Machine learning and AI
-- 📫 How to reach me ...
--  benjamin.matus.sgmail.com and benjamin.matus04inacapmail.com
+Benjamín Matus
 
+ Pyhton, Oracle, MySQL, JavaScript
+ Excel, Google Sheets
+ API, BackEnd Dev
+ 
+
+-  benjamin.matus.s@gmail.com 
+-  benjamin.matus04@inacapmail.com
+
+Analista Programador
+Inacap 
